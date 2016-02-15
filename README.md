@@ -1,2 +1,4 @@
 # HelloWorld
-My repository test.
+Hey humans:
+  
+  I am hxk here,this is my first github project.
